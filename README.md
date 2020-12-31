@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<hrishi025>&theme=<dracula>" />
+![Hrishi's github stats](https://github-readme-stats.vercel.app/api?username=hrishi025&theme=dark&show_icons=true)
 
