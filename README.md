@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Online Shopping System**
-- 🌱 I’m currently learning **Advance Java**
+- 🔭 I’m currently working in **CYBAGE SOFTWARE PVT. LTD.** as a **SOFTWARE DEVELOPER**
 - 👯 I’m looking to collaborate on **Projects with MYSQL, JDBC, Core Java, C Programming, REACT**.
 - 📫 How to reach me: **hrishidalimbkar@gmail.com**
 
